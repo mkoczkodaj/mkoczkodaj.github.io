@@ -1,5 +1,3 @@
-## Welcome to my CV Page!
-
 # inż. Michał Koczkodaj
 
 ## About Me
